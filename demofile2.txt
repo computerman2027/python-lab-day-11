@@ -3,6 +3,3 @@ Now the file!2
 Now the file has more content!
 Now the file has more content2!
 Now the file has more content33!
-Now the file has more content!
-Now the file has more content2!
-Now the file has more content33!

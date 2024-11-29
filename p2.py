@@ -1,4 +1,4 @@
-f = open("demofile3.txt", "w")
+f = open("demofile2.txt", "w")
 f.write("Now the file!1\n")
 f.write("Now the file!2\n")
 
